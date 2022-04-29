@@ -1,0 +1,55 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family: arial;
+}
+
+#container{
+    width: 1250px;
+    height: 486px;
+    margin: 0 auto;
+
+}
+#banner{
+    width: 83%;
+    height: 178px;
+    margin: 0 auto;
+    background: white;
+    color: #fff;
+}
+#texto{
+    width: 698px;
+    height: 800px;
+    margin-top: -734px;
+    margin-left: 427px;
+    background: blue;
+    color: #fff;
+}
+#link{
+    width: 150px;
+    height: 800px;
+    background: white;
+    margin-left: 105px;
+}
+#footer{
+    width: 81.2%;
+    height: 50px;
+    margin-left: 105px;
+    border: solid;
+    color: red;
+    text-align: center;
+}
+#img{
+    width: 98.3%;
+    height: 238px;
+}
+#home1{
+    width: 320px;
+    height: 797px;
+    margin-top: 70px;
+    margin-left: 0px;
+}
+#vd{
+    width: 698px;
+    height: 800px;
+}
